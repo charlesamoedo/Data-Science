@@ -1,0 +1,57 @@
+CATEGORIA,CARGOS_FUNÇOES,NO_ESTADO_R,FORA_DO_ESTADO_R,CONTINENTE_AMERICANO_US,OUTROS_PAISES_US
+CAT1,Secretário de Estado,252.00 ,395.00 ,360.00 ,500.00
+CAT1,Secretário do Gabinete Pessoal do Governador,252.00 ,395.00 ,360.00 ,500.00 
+CAT1,Controlador Geral do Estado,252.00 ,395.00 ,360.00 ,500.00 
+CAT1,Procurador Geral do Estado,252.00 ,395.00 ,360.00 ,500.00 
+CAT1,Ouvidor Geral do Estado,252.00 ,395.00 ,360.00 ,500.00 
+CAT1,Secretário Particular do Governador,252.00 ,395.00 ,360.00 ,500.00 
+CAT1,Comandante Geral da Polícia Militar,252.00 ,395.00 ,360.00 ,500.00 
+CAT1,Comandante Geral do Corpo de Bombeiros Militar,252.00 ,395.00 ,360.00 ,500.00 
+CAT1,Delegado Geral de Polícia Civil,252.00 ,395.00 ,360.00 ,500.00 
+CAT1,Presidente da Comissão Geral de Licitação do Poder Executivo,252.00 ,395.00 ,360.00 ,500.00 
+CAT1,Reitor,252.00 ,395.00 ,360.00 ,500.00 
+CAT1,Representante de Governo em São Paulo,252.00 ,395.00 ,360.00 ,500.00 
+CAT1,Secretário Extraordinário,252.00 ,395.00 ,360.00 ,500.00 
+CAT2,Secretário Executivo,182.00 ,327.00 ,310.00 ,470.00 
+CAT2,Sec. Exec. Da Comissão de Cooperação e Relações Institucionais - CCRIA,182.00 ,327.00 ,310.00 ,470.00 
+CAT2,Coordenador do Comitê de Articulação Institucional,182.00 ,327.00 ,310.00 ,470.00 
+CAT2,Subchefe do Gabinete Pessoal do Governador,182.00 ,327.00 ,310.00 ,470.00 
+CAT2,Subcontrolador Geral do Estado,182.00 ,327.00 ,310.00 ,470.00 
+CAT2,Subprocurador Geral do Estado,182.00 ,327.00 ,310.00 ,470.00 
+CAT2,Subouvidor Geral do Estado,182.00 ,327.00 ,310.00 ,470.00 
+CAT2,Subcomandante Geral da Polícia Militar,182.00 ,327.00 ,310.00 ,470.00 
+CAT2,Subcomandante Geral do Corpo de Bombeiros,182.00 ,327.00 ,310.00 ,470.00 
+CAT2,Delegado Geral-Adjunto da Polícia Civil,182.00 ,327.00 ,310.00 ,470.00 
+CAT2,Subprocurador Geral Adjunto,182.00 ,327.00 ,310.00 ,470.00 
+CAT2,Presidentes de Autarquias. Fundações e Empresas Públicas,182.00 ,327.00 ,310.00 ,470.00 
+CAT2,Chefe da Consultoria Técnico-Legislativa da Casa Civil,182.00 ,327.00 ,310.00 ,470.00 
+CAT2,Corregedor da Procuradoria Geral do Estado,182.00 ,327.00 ,310.00 ,470.00 
+CAT2,Chefe do Cerimonial do Gabinete do Governador,182.00 ,327.00 ,310.00 ,470.00 
+CAT2,Coordenador Executivo da UGPE,182.00 ,327.00 ,310.00 ,470.00 
+CAT2,Vice-Presidente da Comissão Geral de Licitação do Poder Executivo,182.00 ,327.00 ,310.00 ,470.00 
+CAT2,Procurador do Estado,182.00 ,327.00 ,310.00 ,470.00 
+CAT2,Delegado de Polícia,182.00 ,327.00 ,310.00 ,470.00 
+CAT2,Chefe do Estado Maior da Polícia Militar,182.00 ,327.00 ,310.00 ,470.00 
+CAT2,Chefe do Estado Maior do Corpo de Bombeiros Militar,182.00 ,327.00 ,310.00 ,470.00 
+CAT2,Oficial da Polícia Militar,182.00 ,327.00 ,310.00 ,470.00 
+CAT2,Oficial do Corpo de Bombeiros Militar,182.00 ,327.00 ,310.00 ,470.00 
+CAT2,Vice Reitor,182.00 ,327.00 ,310.00 ,470.00 
+CAT2,Vice Reitor,182.00 ,327.00 ,310.00 ,470.00 
+CAT3,Secretário Executivo Adjunto,0.00 ,0.00 ,0.00 ,0.00 
+CAT3,Chefe-adjunto da Consultoria Técnico-Legislativa,0.00 ,0.00 ,0.00 ,0.00 
+CAT3,Coordenador do Sistema Prisional,0.00 ,0.00 ,0.00 ,0.00 
+CAT3,Subcontrolador Geral Adjunto,0.00 ,0.00 ,0.00 ,0.00 
+CAT3,Diretores Intermediários de Autarquias e Fundações,0.00 ,0.00 ,0.00 ,0.00 
+CAT3,Vice-Presidente da JUCEA,147.00 ,292.00 ,280.00 ,440.00 
+CAT3,Subcoordenador Setorial da UGPE,0.00 ,0.00 ,0.00 ,0.00 
+CAT3,Pro-Reitor,0.00 ,0.00 ,0.00 ,0.00 
+CAT3,Presidente da Comissão Administrativa,0.00 ,0.00 ,0.00 ,0.00 
+CAT3,Chefe da Corregedoria da Secretaria de Estado de Fazenda,0.00 ,0.00 ,0.00 ,0.00 
+CAT4,Ocupantes dos demais cargos de provimento em comissão sem vinculação à simbologia,132.00 ,252.00 ,250.00 ,410.00 
+CAT4,Ocupantes de cargos de provimento em comissão com simbologia AD-1,132.00 ,252.00 ,250.00 ,410.00 
+CAT4,Ocupantes de cargos de nível superior,132.00 ,252.00 ,250.00 ,410.00 
+CAT4,Membros de órgãos de colegiados,132.00 ,252.00 ,250.00 ,410.00 
+CAT5,Ocupantes de cargos de provimento em comissão com simbologias AD-2. AD-3 e AD-4,120.00 ,210.00 ,250.00 ,410.00 
+CAT5,Ocupantes de cargos de nível médio. intermediário e auxiliar,120.00 ,210.00 ,250.00 ,410.00 
+CAT5,Praças da Polícia Militar,120.00 ,210.00 ,250.00 ,410.00 
+CAT5,Praças do Corpo de Bombeiros Militar,120.00 ,210.00 ,250.00 ,410.00 
